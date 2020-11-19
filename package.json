@@ -1,11 +1,18 @@
 {
   "name": "@letsgrowtogetherwithahsan/npm-package-one",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "test package",
+  "repository": "ahsanhabibleon/npm-package-one",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ahsan",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "one",
+    "npm",
+    "package",
+    "letsgrowtogetherwithahsan"
+  ]
 }
