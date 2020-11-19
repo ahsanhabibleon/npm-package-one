@@ -7,18 +7,18 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @letsgrowtogetherwithahsan/npm-package-one
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const removeSpace = require("@letsgrowtogetherwithahsan/npm-package-one");
 
-tiny("So much space!");
+removeSpace("So much space!");
 //=> "Somuchspace!"
 
-tiny(1337);
+removeSpace(1337);
 //=> Uncaught TypeError: Tiny wants a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
